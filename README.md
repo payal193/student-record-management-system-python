@@ -35,7 +35,7 @@ student-record-management-system-python/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/student-record-management-system-python.git
+git clone https://github.com/payal193/student-record-management-system-python.git
 ```
 
 2. Navigate to the project folder
